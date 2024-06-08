@@ -29,7 +29,7 @@ const siteProps = {
   email: "devyanshi1102@gmail.com",
   gitHub: "DevyanshiS",
   instagram: "",
-  linkedIn: "Devyanshi Sitani",
+  linkedIn: "devyanshi-sitani",
   medium: "",
   twitter: "",
   youTube: "",
